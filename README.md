@@ -17,7 +17,7 @@ This is a simple and functional To-Do List web application developed as part of 
 To run the application locally:
 
 1. Clone this repository:  
-   git clone https://github.com/harshini-2410/todo-list-app.git
+   git clone https://github.com/Harshini-2410/todo-list-app/tree/master
 
 2. Navigate to the project directory:  
    cd todo-list-app
